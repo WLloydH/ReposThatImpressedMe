@@ -1,4 +1,4 @@
-# ReposThatImpressedMe
+ 
 High-quality repositories
 
  
@@ -9,7 +9,7 @@ A curated collection of high‑quality repositories and developers whose work ha
 
 ## Featured Developers & Repos
 
-### Eric D. Boyd  
+ 
 
 ### Eric Boyd  
 [GitHub Profile →](https://github.com/ericdboyd) — his repositories show clean architecture, solid documentation, and patterns for maintainable, cloud‑ready applications.  
